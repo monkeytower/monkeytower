@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @monkeytower, Olaf Klein in real life
-- 👀 I’m interested in writing my own first pwa to enhance the booking system I use
-- 🌱 I’m currently learning node.js
-- 💞️ I’m looking to collaborate on pwa in general
+- 👋 Hi, my name is Olaf Klein, @monkeytower internet agency is the name of my company.
+- 👀 I’m interested in writing my own booking software for tandem paragliding adventures, since that is my hobby.
+- 🌱 I’m currently learning dart, Flutter, Typescript and Server Functions of Firebase.
+- 💞️ I’m looking forward to the future.
 - 📫 How to reach me: mail@olaf-klein.de
 
 <!---
